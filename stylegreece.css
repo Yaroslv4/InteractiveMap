@@ -1,6 +1,7 @@
 body {
     background: url(map.jpg) no-repeat;
     background-position-x: left;
+    margin-left: 200px;
     background-position-y: top;
     overflow: hidden
 }
@@ -54,8 +55,4 @@ p{
     position: fixed;
     overflow: auto;
     font-family: comfortaa;
-}
-.ob2{
-    margin-left: 40%;
-    margin-top: 20%;
 }
