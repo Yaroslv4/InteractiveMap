@@ -24,7 +24,7 @@ body{
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
   }
 #button:hover.blue {
-    background: #39a1f4;
+    background: #93a6b6;
   }
 .button:hover.purple {
     background: #a66bbe;
@@ -34,7 +34,7 @@ body{
     text-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
   }
 .button:active.blue {
-    background: #0d8aee;
+    background: #7a838a;
   }
 .button:active.purple {
     background: #8f4bab;
