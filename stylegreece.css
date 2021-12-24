@@ -1,6 +1,7 @@
 body {
     background: url(map.jpg) no-repeat;
-    background-position-x: center;
+    background-position-x: left;
+    background-position-y: top;
     overflow: hidden
 }
 .header-text h1{
